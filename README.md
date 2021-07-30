@@ -15,3 +15,6 @@ From there you can install this app into your android phones.
 ![GIF-210619_215353 (1)](https://user-images.githubusercontent.com/64833214/122648974-2d6f0380-d149-11eb-8e37-21015dfec0ac.gif)
 ![GIF-210619_191742](https://user-images.githubusercontent.com/64833214/122649026-82ab1500-d149-11eb-92c3-dfa76c4d86a0.gif)
 ![GIF-210619_205435](https://user-images.githubusercontent.com/64833214/122649031-89398c80-d149-11eb-9e14-5a78fbe41f5d.gif)
+
+
+The json file used in retrofit: https://drive.google.com/file/d/1AJZrydQfb9rqKvfPdO6XQKhupxWmJfng/view?usp=sharing or https://morning-falls-35163.herokuapp.com/categories
