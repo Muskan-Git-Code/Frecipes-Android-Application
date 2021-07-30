@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nf2"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="Books" />
+    <item
+        android:id="@+id/nf3"
+        android:icon="@drawable/ic_baseline_video_library_24"
+        android:title="Videos" />
+
+    <item
+        android:id="@+id/nf1"
+        android:icon="@drawable/ic_baseline_widgets_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nf4"
+        android:icon="@drawable/ic_baseline_post_add_24"
+        android:title="Notes"/>
+    <item
+        android:id="@+id/nf5"
+        android:icon="@drawable/ic_baseline_flutter_dash_24"
+        android:title="Fun Time" />
+</menu>
